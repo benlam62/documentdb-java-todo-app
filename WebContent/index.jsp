@@ -28,7 +28,7 @@
 
   <!-- Body -->
   <div class="container">
-    <h1>My ToDo List v1</h1>
+    <h1>My ToDo List v2</h1>
 
     <hr/>
 
